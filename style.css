@@ -3,10 +3,11 @@ body {
 }
 .bg-box {
   background-image: url(pole-zelen-trava-dom-derevya_hw16.jpg),
-    url(green-png-44873.png), url(lamp-png-34914.png), url(3F3F.webp);
-  background-repeat: no-repeat, repeat-x, repeat-x, repeat-y;
-  background-position: center, bottom, top, left;
-  background-size: auto, 40vh, 10vh, 4vw;
+    url(green-png-44873.png), url(lamp-png-34914.png), url(3F3F.webp),
+    url(58eb07b830eab15b56162788.png);
+  background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+  background-position: center, bottom, top, left, right;
+  background-size: auto, 40vh, 10vh, 3vw, 3vw;
   width: 100vw;
   height: 100vh;
   background-color: darkgreen;
